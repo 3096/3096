@@ -1,3 +1,3 @@
 # 3096
 
-My favorite language is TypeScript.
+My favorite language is TypeScript, but Rust is looking great...
